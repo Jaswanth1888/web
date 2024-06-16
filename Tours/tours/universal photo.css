@@ -1,0 +1,14 @@
+h1{
+    background-color: lightgreen;
+    color:black;
+    text-align: center;
+}
+table{
+    text-align: center;
+    border:2px solid blue;
+    background-color:gold;
+    margin-top: 20px;
+}
+th{
+    background-color: lightgreen;
+}

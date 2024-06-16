@@ -1,0 +1,29 @@
+h1{
+    background-color:lightgreen;
+    text-align: center;
+}
+nav{
+    background-color:orangered;
+    font-size: 20px;
+    text-align:end ;
+    width:100%;
+    border:1px solid green;
+}
+li{
+    display: inline;
+}
+body{
+    background-color: blanchedalmond;
+}
+nav li a:hover{
+    background-color: aliceblue;
+    color:blue;
+}
+h5{
+    background-color: black;
+    color: whitesmoke;
+    height:100px;
+    width:100%;
+    text-align: center;
+    padding-top: 50px;
+}
